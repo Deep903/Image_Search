@@ -39,3 +39,10 @@ hr{
     text-align: left;
     padding:0px;
 }
+
+.container-fluid img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
